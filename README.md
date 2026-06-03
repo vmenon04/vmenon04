@@ -14,7 +14,7 @@ I studied Computer Science and Mathematics at NC State, spent a semester at the 
 
 Supervised by [Dr. Ryan Murray](https://rwmurray.wordpress.ncsu.edu/). Analyzes a phase in transformer attention dynamics where token embeddings split into two antipodal clusters and persist there for exponentially long times before collapsing into a single consensus.
 
-→ [vasumenon.com/projects/metastable-transformer-attention](https://vasumenon.com/projects/metastable-transformer-attention)
+→ [vasumenon.com/projects/metastable-transformer-attention](https://vasumenon.com/projects/metastability-transformer-attention)
 
 <br/>
 </details>
