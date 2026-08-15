@@ -2,7 +2,7 @@
 
 <br/>
 
-I studied Computer Science and Mathematics at NC State, spent a semester at the Budapest Semesters in Mathematics program, including a combinatorics course taught by a frequent collaborator of Paul Erdős,  and have been trying to at the intersection of software engineering, AI safety, and mathematical theory since.
+I studied Computer Science and Mathematics at NC State.
 
 ---
 
