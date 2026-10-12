@@ -12,7 +12,7 @@ I studied Computer Science and Mathematics at NC State.
 <summary><b>On the Metastability of Bipodal States in Transformer Attention Dynamics</b> &nbsp;·&nbsp; <em>NC State, 2026</em></summary>
 <br/>
 
-Supervised by [Dr. Ryan Murray](https://rwmurray.wordpress.ncsu.edu/). Analyzes a phase in transformer attention dynamics where token embeddings split into two antipodal clusters and persist there for exponentially long times before collapsing into a single consensus.
+Supervised by [Dr. Ryan Murray](https://rwmurray.wordpress.ncsu.edu/). Analyzes a phase in transformer attention dynamics where token embeddings split into two antipodal clusters and persist there for exponentially long times before collapsing into a single consensus. Prior work established this metastability for isotropic attention [(Geshkovski et al., 2024)](https://arxiv.org/abs/2410.06833); this paper analyzes anisotropic key matrices, computing the stability spectrum of the two-cluster state as a function of its orientation and measuring how its lifetime scales with the number of tokens.
 
 → [vasumenon.com/projects/metastable-transformer-attention](https://vasumenon.com/projects/metastability-transformer-attention)
 
@@ -52,7 +52,7 @@ Supervised by [Attila Jung](https://attilajung.github.io/) at ELTE. Expresses th
 
 I [photograph abandoned buildings](https://vasumenon.com/urbex), places left to settle into themselves.
 
-I also make [music](https://vasumenon.com/made), play basketball, and read math I only partially understand.
+I also make [music](https://vasumenon.com/made), play basketball (and sometimes soccer), and try to keep up with math.
 
 ---
 
